@@ -1,0 +1,28 @@
+.clients-says-area {
+  background-color: #f8f9fa;
+}
+.client-says {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title-client {
+  display: flex;
+  align-items: center;
+  margin: 2% 5%;
+  width: 100%;
+}
+
+.client-says-photo img {
+  border-radius: 50%;
+}
+.client-says-photo {
+  display: flex;
+  justify-content: center;
+}
+.text-client {
+  background-color: #fff;
+  padding: 5%;
+  color: #7c7d7e;
+  z-index: 9;
+}

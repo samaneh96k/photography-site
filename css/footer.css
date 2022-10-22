@@ -1,0 +1,26 @@
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: black;
+  padding: 5rem;
+}
+.footer-title {
+  color: #ffff;
+  font-weight: 700;
+  margin-bottom: 2%;
+}
+.footer-item {
+  margin: 2%;
+}
+.footer-btn {
+  background: red;
+  color: #ffffff;
+  padding: 2%;
+  cursor: pointer;
+}
+.input-footer {
+  padding: 2%;
+  background-color: #ffffff;
+  border: none;
+}
